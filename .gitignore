@@ -1,0 +1,6 @@
+﻿.env
+bin/
+tmp/
+main
+*.exe
+vendor/
